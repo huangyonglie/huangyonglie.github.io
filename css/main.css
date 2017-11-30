@@ -6,7 +6,6 @@ html {
 }
 body {
   margin: 0;
-  background: red;
 }
 article,
 aside,
@@ -1823,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff75;
+  background: #ffff81;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2659,4 +2658,7 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background: #f00;
 }
